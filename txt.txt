@@ -1,0 +1,6 @@
+git init 
+git status
+git add .
+git commit -m " all addeed "
+git remote add  origin https-repolink.git
+git push origin master
